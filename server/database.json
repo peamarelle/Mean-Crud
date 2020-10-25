@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+        "URI": "mongodb://localhost/mean-employees"
+    }
+}
